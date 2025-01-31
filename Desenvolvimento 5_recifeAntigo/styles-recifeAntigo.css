@@ -24,6 +24,7 @@ header {
 }
 nav {
     display: flex;
+    justify-content: flex-end;
     color: white;
     height: 6rem;
     padding: 0 2.4rem;
@@ -36,12 +37,7 @@ main {
     margin: auto;
     background: white;
     border-radius: 8px;
-
 }
-h1 {
-    
-}
-
 p {
     line-height: 1.6;
     text-align: justify;
